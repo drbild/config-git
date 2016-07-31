@@ -1,1 +1,1 @@
-source ~/.config/mr/repos.d/zsh-git-prompt/zshrc.sh
+source ~/.config/mr/repo.d/zsh-git-prompt/zshrc.sh
