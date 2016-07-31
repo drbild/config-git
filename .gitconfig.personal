@@ -1,0 +1,10 @@
+[user]
+	name = David R. Bild
+	email = david@davidbild.org
+	signingkey = 87F11666
+
+[sendemail]
+	smtpencryption = tls
+	smtpserver = smtp.gmail.com
+	smtpuser = david@davidbild.org
+	smtpserverport = 587
