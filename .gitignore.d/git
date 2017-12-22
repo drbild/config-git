@@ -1,0 +1,10 @@
+*
+!/bin
+!/bin/git-id
+!/bin/git-list
+!/bin/git-number
+!/.gitconfig
+!/.gitconfig.personal
+!/.gitconfig.xaptum
+!/.gitignore.d
+!/.gitignore.d/git
