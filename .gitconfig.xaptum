@@ -1,3 +1,9 @@
 [user]
 	name = David R. Bild
 	email = david.bild@xaptum.com
+
+[sendemail]
+	smtpencryption = tls
+	smtpserver = smtp.gmail.com
+	smtpuser = david.bild@xaptum.com
+	smtpserverport = 587
