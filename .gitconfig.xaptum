@@ -1,6 +1,7 @@
 [user]
 	name = David R. Bild
 	email = david.bild@xaptum.com
+	signingKey = david.bild@xaptum.com
 
 [sendemail]
 	smtpencryption = tls
