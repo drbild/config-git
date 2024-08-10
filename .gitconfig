@@ -22,11 +22,12 @@
 	remote = green
 
 [color "diff"]
-	commit = yellow
-	frag = magenta
-	meta = yellow
-	new = green
-	old = red
+	meta = 11
+	frag = magenta bold
+	func = 146 bold
+	commit = yellow bold
+	new = green bold
+	old = red bold
 	whitespace = red reverse
 
 [color "diff-highlight"]
@@ -36,9 +37,9 @@
 	newNormal = green bold 22
 
 [color "status"]
-	added = yellow
-	changed = green
-	untracked = cyan
+	added = yellow bold
+	changed = green bold
+	untracked = cyan bold
 
 [core]
 	pager = diff-so-fancy | less --tabs=4 -FRX
